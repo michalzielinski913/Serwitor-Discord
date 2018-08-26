@@ -24,7 +24,7 @@ namespace serwitor
 
             discord = new DiscordClient(new DiscordConfig
             {
-                Token = "TUTAJ_NALEŻY_UMIEŚCIĆ_TOKEN_DISCORD",
+                Token = "TUTAJ_NALEŻY_UMIEŚCIĆ_TOEKN_DISCORD",
                 TokenType = TokenType.Bot,
                 UseInternalLogHandler = true,
                 LogLevel = LogLevel.Debug
