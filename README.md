@@ -1,3 +1,5 @@
+Projekt został wznowiony jednak w nowym repozytorium
+https://github.com/michalmaniak/Pybot
 # Serwitor
 
 
